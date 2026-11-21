@@ -1,7 +1,5 @@
 # CalendarMate: an agentic AI assistant for PMs and TPMs
 
-Capstone project for the *Applied Agentic AI for Product Managers & TPMs* program (Interview Kickstart), by Sara Jose.
-
 CalendarMate gives ServionIQ's PMs, TPMs and senior ICs back about an hour a day. It handles their
 daily briefing, scheduling, email triage, conflict checks and meeting follow-ups through a team of
 AI agents built in **n8n**, running on **gpt-4.1-mini** (via OpenRouter), with every run traced
